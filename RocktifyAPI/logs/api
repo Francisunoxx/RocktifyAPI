@@ -1,0 +1,17 @@
+2019-02-23 15:40:22.9749 Debug 13084 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
+2019-02-23 16:00:32.1455 Debug 18128 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Uri: http://localhost:46439/api/v1/register/test
+2019-02-23 16:00:32.2100 Debug 18128 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Action: GET
+2019-02-23 16:00:32.2100 Debug 18128 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Method: Test
+2019-02-23 16:00:32.2100 Debug 18128 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
+2019-02-23 16:04:01.3364 Debug 1820 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Uri: http://localhost:46439/api/v1/register/test
+2019-02-23 16:04:01.3911 Debug 1820 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Action: GET
+2019-02-23 16:04:01.3936 Debug 1820 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Method: Test
+2019-02-23 16:04:01.3936 Debug 1820 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
+2019-02-23 16:50:16.5661 Debug 9620 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Uri: http://localhost:46439/api/v1/register/test
+2019-02-23 16:50:16.6433 Debug 9620 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Action: GET
+2019-02-23 16:50:16.6684 Debug 9620 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Method: Test
+2019-02-23 16:50:16.6684 Debug 9620 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
+2019-02-23 16:50:49.9465 Debug 2760 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Uri: http://localhost:46439/api/v1/register/test
+2019-02-23 16:50:49.9966 Debug 2760 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Action: GET
+2019-02-23 16:50:49.9966 Debug 2760 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Method: Test
+2019-02-23 16:50:50.0027 Debug 2760 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
