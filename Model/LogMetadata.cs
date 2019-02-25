@@ -9,6 +9,10 @@ namespace Model
 {
     public class LogMetadata
     {
+        public string Message { get; set; }
+        public string ActionMethod { get; set; }
+        public string Exception { get; set; }
+        public bool HasException { get; set; }
         public string RequestContentType { get; set; }
         public string RequestUri { get; set; }
         public string RequestMethod { get; set; }

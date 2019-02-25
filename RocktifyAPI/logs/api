@@ -1,17 +1,36 @@
-2019-02-23 15:40:22.9749 Debug 13084 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
-2019-02-23 16:00:32.1455 Debug 18128 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Uri: http://localhost:46439/api/v1/register/test
-2019-02-23 16:00:32.2100 Debug 18128 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Action: GET
-2019-02-23 16:00:32.2100 Debug 18128 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Method: Test
-2019-02-23 16:00:32.2100 Debug 18128 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
-2019-02-23 16:04:01.3364 Debug 1820 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Uri: http://localhost:46439/api/v1/register/test
-2019-02-23 16:04:01.3911 Debug 1820 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Action: GET
-2019-02-23 16:04:01.3936 Debug 1820 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Method: Test
-2019-02-23 16:04:01.3936 Debug 1820 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
-2019-02-23 16:50:16.5661 Debug 9620 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Uri: http://localhost:46439/api/v1/register/test
-2019-02-23 16:50:16.6433 Debug 9620 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Action: GET
-2019-02-23 16:50:16.6684 Debug 9620 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Method: Test
-2019-02-23 16:50:16.6684 Debug 9620 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
-2019-02-23 16:50:49.9465 Debug 2760 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Uri: http://localhost:46439/api/v1/register/test
-2019-02-23 16:50:49.9966 Debug 2760 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Action: GET
-2019-02-23 16:50:49.9966 Debug 2760 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: Method: Test
-2019-02-23 16:50:50.0027 Debug 2760 RocktifyAPI.Filters.LoggerFilter.OnActionExecuting Message: System.Web.Http.Controllers.HttpActionContext
+2019-02-25 17:49:34.3010 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:49:34 PM
+2019-02-25 17:52:28.0504 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:52:28 PM
+2019-02-25 17:52:28.1170 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: 
+Exception: Attempted to divide by zero.
+2019-02-25 17:54:24.9723 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:54:24 PM
+2019-02-25 17:54:25.0400 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: 
+Exception found!!!
+Exception: Attempted to divide by zero.
+2019-02-25 17:56:30.8879 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:56:30 PM
+2019-02-25 17:58:03.4660 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:58:03 PM
+2019-02-25 17:59:28.9094 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:59:28 PM
+2019-02-25 18:05:34.6609 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 6:05:34 PM
+2019-02-25 18:05:34.7246 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : Exception found!!!
+                                    Exception: Attempted to divide by zero.
+                                    Verb: GET
+2019-02-25 18:06:12.6657 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 6:06:12 PM
+2019-02-25 18:06:12.7244 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+ Exception found!!!
+                                    Exception: Attempted to divide by zero.
+                                    Verb: GET
+2019-02-25 18:06:57.2268 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
+Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 6:06:57 PM
+2019-02-25 18:06:57.2909 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+ Exception found!!!
+                                    Exception: Attempted to divide by zero. 
+
+                                    Verb: GET 
+

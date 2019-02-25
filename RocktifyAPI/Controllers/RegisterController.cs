@@ -23,21 +23,18 @@ namespace RocktifyAPI.Controllers
         }
 
 
-
-        [Route("test")]
-        [HttpGet]
-        public void Test(int y)
-        {
-            var a = 0;
-            var b = 0;
-            var w = a / b;
-        }
+        
 
         [Route("check-email")]
         [HttpGet]
         public IHttpActionResult CheckEmail(Registration registration)
         {
-            return Ok(this.ias.ServeCheckEmail(registration));
+            var a = 0;
+            var b = 0;
+            var w = a/ b;
+
+            return Ok(w);
+            //return Ok(this.ias.ServeCheckEmail(registration));
         }
 
         [Route("check-username")]
