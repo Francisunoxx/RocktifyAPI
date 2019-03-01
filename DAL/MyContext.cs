@@ -10,6 +10,6 @@ namespace DAL
 {
     public class MyContext : DbContext
     {
-        public DbSet<Registration> Registrations { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

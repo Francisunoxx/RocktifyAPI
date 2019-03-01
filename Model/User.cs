@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    public class User : Registration
+    public class User
     {
         [Key]
-        public int Id { get; set; }
-        public int RegistrationId { get; set; }
+        public int UserId { get; set; }
+
+        public virtual Registration Registrations { get; set; }
     }
 }

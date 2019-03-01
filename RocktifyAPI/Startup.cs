@@ -24,6 +24,25 @@ namespace RocktifyAPI
             // Web API routes
             webApiConfiguration.MapHttpAttributeRoutes();
 
+            var corsOptions = new CorsOptions
+            {
+                //Add CORS Policy
+                PolicyProvider = new CorsPolicyProvider
+                {
+                    PolicyResolver = context =>
+                    {
+                        //Task.FromResult(new CorsPolicy
+                        var policy = new CorsPolicy();
+                        policy.AllowAnyHeader = true;
+                        policy.AllowAnyMethod = true;
+                        policy.SupportsCredentials = true;
+                        policy.Origins.Add("localhost:8080");
+
+                        return Task.FromResult(policy);
+                    }
+                }
+            };
+
             //Apply filter to all Web API Controllers
             webApiConfiguration.Filters.Add(new LoggerFilter());
 
@@ -39,8 +58,8 @@ namespace RocktifyAPI
 
             // Inject Ninject into Owin Pipeline
             // Inject Web API Config into Ninject
-            app.UseNinjectMiddleware(CreateKernel).UseNinjectWebApi(webApiConfiguration);
-            
+            app.UseNinjectMiddleware(CreateKernel).UseNinjectWebApi(webApiConfiguration).UseCors(corsOptions);
+
         }
 
         public static StandardKernel CreateKernel()
