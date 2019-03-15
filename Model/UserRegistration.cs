@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    public class Transaction
+    public class UserRegistration
     {
-        public string Message { get; set; }
-        public bool IsCompleted { get; set; } = false;
+        public Registration Registration { get; set; }
+        public UserAccount UserAccount { get; set; }
     }
 }

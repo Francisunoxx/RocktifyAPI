@@ -8,6 +8,9 @@ using Ninject.Web.Common.OwinHost;
 using Ninject;
 using Ninject.Web.WebApi.OwinHost;
 using RocktifyAPI.Filters;
+using Microsoft.Owin.Cors;
+using System.Web.Cors;
+using System.Web.Http.Cors;
 
 [assembly: OwinStartup(typeof(RocktifyAPI.Startup))]
 
@@ -32,17 +35,24 @@ namespace RocktifyAPI
                     PolicyResolver = context =>
                     {
                         //Task.FromResult(new CorsPolicy
-                        var policy = new CorsPolicy();
-                        policy.AllowAnyHeader = true;
-                        policy.AllowAnyMethod = true;
-                        policy.SupportsCredentials = true;
-                        policy.Origins.Add("localhost:8080");
+                        var policy = new CorsPolicy
+                        {
+                            AllowAnyHeader = true,
+                            AllowAnyMethod = true,
+                            AllowAnyOrigin = true,
+                            SupportsCredentials = true
+                        };
+                        policy.Origins.Add("http://localhost:8080");
 
                         return Task.FromResult(policy);
                     }
                 }
             };
 
+            EnableCorsAttribute cors = new EnableCorsAttribute("*", "*", "*");
+
+            webApiConfiguration.EnableCors(cors);
+            
             //Apply filter to all Web API Controllers
             webApiConfiguration.Filters.Add(new LoggerFilter());
 
@@ -55,6 +65,7 @@ namespace RocktifyAPI
                 name: "DefaultApi",
                 routeTemplate: "{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional, controller = "values" });
+
 
             // Inject Ninject into Owin Pipeline
             // Inject Web API Config into Ninject

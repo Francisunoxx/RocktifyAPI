@@ -1,17 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Model
 {
-    public class User : Common
+    public class UserAccount : Common
     {
         [Key]
         public int Id { get; set; }
-        public virtual Registration Registration { get; set; }
-        public virtual UserAccount UserAccount { get; set; }
+        public string Password { get; set; }
+        public virtual User User { get; set; }
     }
 }

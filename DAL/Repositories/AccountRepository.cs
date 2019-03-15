@@ -1,16 +1,13 @@
 ﻿using DAL.Interfaces;
 using Model;
-using System;
-using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
     public class AccountRepository : IAccountRepository
     {
-        public Transaction CheckEmail(Registration registration)
+        public Transaction ValidateEmail(Registration registration)
         {
             using (var db = new MyContext())
             {
@@ -24,76 +21,79 @@ namespace DAL.Repositories
                 }
                 else
                 {
-                    return new Transaction { Message = "Successful!", IsCompleted = true };
+                    return new Transaction { Message = "Email is free to use!", IsCompleted = true };
                 }
             }
         }
 
-        public Transaction CheckUserName(Registration registration)
+        public Transaction ValidateUsername(Registration registration)
         {
             using (var db = new MyContext())
             {
                 var check = db.Registrations
-                     .Where(x => x.UserName == registration.UserName)
+                     .Where(x => x.Username == registration.Username)
                      .FirstOrDefault<Registration>();
 
                 if (check != null)
                 {
-                    return new Transaction { Message = "UserName is already taken!", IsCompleted = false };
+                    return new Transaction { Message = "Username is already taken!", IsCompleted = false };
                 }
                 else
                 {
-                    return new Transaction { Message = "Successful!", IsCompleted = true };
+                    return new Transaction { Message = "Username is free to use", IsCompleted = true };
                 }
             }
         }
 
-        public Transaction CreateUser(Registration registration)
+        public Transaction CreateUser(UserRegistration userRegistration)
         {
-            var userName = CheckUserName(registration);
-            var email = CheckEmail(registration);
             var w = new Transaction();
+            var email = ValidateEmail(userRegistration.Registration);
+            var userName = ValidateUsername(userRegistration.Registration);
 
-            try
+            if (userName.IsCompleted && email.IsCompleted)
             {
-                if (userName.IsCompleted && email.IsCompleted)
+                using (var context = new MyContext())
                 {
-                    using (var db = new MyContext())
+                    using (DbContextTransaction transaction = context.Database.BeginTransaction())
                     {
-                        db.Registrations.Add(new Registration
-                        {
-                            FirstName = registration.FirstName,
-                            LastName = registration.LastName,
-                            UserName = registration.UserName,
-                            Email = registration.Email,
-                            Password = registration.Password
-                        });
+                        User u = new User();
 
-                        db.SaveChanges();
+                        u.Registration = new Registration
+                        {
+                            Firstname = userRegistration.Registration.Firstname,
+                            Lastname = userRegistration.Registration.Lastname,
+                            Username = userRegistration.Registration.Username,
+                            Email = userRegistration.Registration.Email
+                        };
+
+                        u.UserAccount = new UserAccount { Password = userRegistration.UserAccount.Password };
+
+                        context.Users.Add(u);
+
+                        context.SaveChanges();
+
+                        transaction.Commit();
 
                         w = new Transaction { Message = "Successful", IsCompleted = true };
                     }
                 }
-                else if (!userName.IsCompleted && email.IsCompleted)
-                {
-                    w = userName;
-                }
-                else if (userName.IsCompleted && !email.IsCompleted)
-                {
-                    w = email;
-                }
-                else if (!userName.IsCompleted && !email.IsCompleted)
-                {
-                    w = new Transaction { Message = "Email and UserName are already taken!", IsCompleted = false };
-                }
             }
-            catch (Exception ex)
+            else if (!userName.IsCompleted && email.IsCompleted)
             {
-                w = new Transaction { Message = ex.Message, IsCompleted = false };
+                w = userName;
+            }
+            else if (userName.IsCompleted && !email.IsCompleted)
+            {
+                w = email;
+            }
+            else if (!userName.IsCompleted && !email.IsCompleted)
+            {
+                w = new Transaction { Message = "Email and Username are already taken!", IsCompleted = false };
             }
 
             return w;
         }
-    }
 
+    }
 }

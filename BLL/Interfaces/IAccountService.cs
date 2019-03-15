@@ -1,5 +1,6 @@
 ﻿using DAL;
 using Model;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,8 +11,8 @@ namespace BLL.Interfaces
 {
     public interface IAccountService
     {
-        Transaction ServeCheckEmail(Registration registration);
-        Transaction ServeCheckUserName(Registration registration);
-        Transaction ServeCreateUser(Registration registration);
+        Transaction ServeValidateEmail(Registration registration);
+        Transaction ServeValidateUsername(Registration registration);
+        Transaction ServeCreateUser(UserRegistration userRegistration);
     }
 }

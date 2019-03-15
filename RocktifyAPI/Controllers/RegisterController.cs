@@ -1,11 +1,7 @@
 ﻿using BLL.Interfaces;
-using DAL;
 using Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
+using Newtonsoft.Json.Linq;
+using System.Reflection;
 using System.Web.Http;
 
 namespace RocktifyAPI.Controllers
@@ -22,34 +18,57 @@ namespace RocktifyAPI.Controllers
             this.ias = ias;
         }
 
-
-        
-
-        [Route("check-email")]
+        [Route("validate-email")]
         [HttpGet]
-        public IHttpActionResult CheckEmail(Registration registration)
+        public IHttpActionResult ValidateEmail([FromBody] Registration registration)
         {
-            var a = 0;
-            var b = 0;
-            var w = a/ b;
-
-            return Ok(w);
-            //return Ok(this.ias.ServeCheckEmail(registration));
+            return Ok(this.ias.ServeValidateEmail(registration));
         }
 
-        [Route("check-username")]
+        [Route("validate-username")]
         [HttpGet]
-        public IHttpActionResult CheckUserName(Registration registration)
+        public IHttpActionResult ValidateUserName([FromBody] Registration registration)
         {
-            return Ok(this.ias.ServeCheckUserName(registration));
+            return Ok(this.ias.ServeValidateUsername(registration));
         }
 
 
         [Route("create")]
         [HttpPost]
-        public IHttpActionResult CreateUser(Registration registration)
+        public IHttpActionResult CreateUser([FromBody] JObject userRegistration)
         {
-            return Ok(this.ias.ServeCreateUser(registration));
+            Registration r = new Registration();
+            UserAccount ua = new UserAccount();
+
+            foreach (JProperty x in (JToken)userRegistration)
+            {
+                string name = x.Name;
+                JToken value = x.Value;
+
+                foreach (var i in r.GetType().GetProperties())
+                {
+                    if (name.Equals(i.Name))
+                    {
+                        r.GetType().GetProperty(name).SetValue(r, value.ToString());
+
+                    }
+                }
+
+                foreach (var i in ua.GetType().GetProperties())
+                {
+                    if (name.Equals(i.Name))
+                    {
+                       ua.GetType().GetProperty(name).SetValue(ua, value.ToString());
+
+                    }
+                }
+            }
+
+            UserRegistration ur = new UserRegistration();
+            ur.Registration = r;
+            ur.UserAccount = ua;
+
+            return Ok(this.ias.ServeCreateUser(ur));
         }
     }
 }

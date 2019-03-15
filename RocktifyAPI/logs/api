@@ -1,36 +1,570 @@
-2019-02-25 17:49:34.3010 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:49:34 PM
-2019-02-25 17:52:28.0504 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:52:28 PM
-2019-02-25 17:52:28.1170 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: 
-Exception: Attempted to divide by zero.
-2019-02-25 17:54:24.9723 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:54:24 PM
-2019-02-25 17:54:25.0400 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: 
-Exception found!!!
-Exception: Attempted to divide by zero.
-2019-02-25 17:56:30.8879 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:56:30 PM
-2019-02-25 17:58:03.4660 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:58:03 PM
-2019-02-25 17:59:28.9094 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 5:59:28 PM
-2019-02-25 18:05:34.6609 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 6:05:34 PM
-2019-02-25 18:05:34.7246 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : Exception found!!!
-                                    Exception: Attempted to divide by zero.
-                                    Verb: GET
-2019-02-25 18:06:12.6657 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 6:06:12 PM
-2019-02-25 18:06:12.7244 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+2019-03-11 09:35:07.7907 Debug 8412 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 9:35:07 AM
+2019-03-11 09:35:08.4782 Error 8412 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
  Exception found!!!
-                                    Exception: Attempted to divide by zero.
-                                    Verb: GET
-2019-02-25 18:06:57.2268 Debug 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CheckEmail method
-Uri: /api/v1/register/check-email, Verb: GET, Date: 25/02/2019 6:06:57 PM
-2019-02-25 18:06:57.2909 Error 10828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+                                    Exception: An error occurred while updating the entries. See the inner exception for details. 
+
+                                    Verb: POST 
+
+2019-03-11 09:35:30.8906 Debug 7100 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 9:35:30 AM
+2019-03-11 09:40:40.9895 Debug 20324 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 9:40:40 AM
+2019-03-11 09:43:05.6642 Debug 19132 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 9:43:05 AM
+2019-03-11 09:47:15.7611 Debug 10904 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 9:47:15 AM
+2019-03-11 09:50:16.4256 Debug 14376 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 9:50:16 AM
+2019-03-11 10:14:47.6968 Debug 14804 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:14:47 AM
+2019-03-11 10:18:13.2655 Debug 15036 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:18:13 AM
+2019-03-11 10:19:07.8953 Debug 19196 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:19:07 AM
+2019-03-11 10:20:01.1001 Debug 14164 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:20:01 AM
+2019-03-11 10:21:13.7673 Debug 5272 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:21:13 AM
+2019-03-11 10:22:25.4732 Debug 1880 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing ValidateEmail method
+Uri: /api/v1/register/validate-email, Verb: GET, Date: 11/03/2019 10:22:25 AM
+2019-03-11 10:38:10.9697 Debug 5160 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:38:10 AM
+2019-03-11 10:38:11.0579 Debug 5160 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-11 10:38:36.4391 Debug 16444 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:38:36 AM
+2019-03-11 10:41:50.3027 Debug 19240 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:41:50 AM
+2019-03-11 10:42:51.3080 Debug 9524 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:42:51 AM
+2019-03-11 10:43:50.5332 Debug 7152 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:43:50 AM
+2019-03-11 10:47:37.9890 Debug 20836 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:47:37 AM
+2019-03-11 10:51:48.4839 Debug 4704 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:51:48 AM
+2019-03-11 10:53:02.7741 Debug 13028 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:53:02 AM
+2019-03-11 10:54:17.6464 Debug 18500 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:54:17 AM
+2019-03-11 10:57:58.9469 Debug 2316 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:57:58 AM
+2019-03-11 10:59:09.8062 Debug 16900 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 10:59:09 AM
+2019-03-11 11:01:19.9176 Debug 8764 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:01:19 AM
+2019-03-11 11:10:43.9053 Debug 15400 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:10:43 AM
+2019-03-11 11:14:02.3883 Debug 2020 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:14:02 AM
+2019-03-11 11:15:14.9352 Debug 16752 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:15:14 AM
+2019-03-11 11:23:10.6331 Debug 12416 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:23:10 AM
+2019-03-11 11:24:28.3867 Debug 11472 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:24:28 AM
+2019-03-11 11:25:07.1217 Debug 13216 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:25:07 AM
+2019-03-11 11:28:37.4978 Debug 12160 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:28:37 AM
+2019-03-11 11:29:39.8915 Debug 5444 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:29:39 AM
+2019-03-11 11:57:16.4393 Debug 14892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:57:16 AM
+2019-03-11 11:58:34.2080 Debug 19308 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:58:34 AM
+2019-03-11 11:59:49.2459 Debug 19184 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 11:59:49 AM
+2019-03-11 12:00:55.3621 Debug 7824 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 12:00:55 PM
+2019-03-11 12:01:53.5623 Debug 15072 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 11/03/2019 12:01:53 PM
+2019-03-12 08:22:08.5448 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 8:22:08 AM
+2019-03-12 08:26:37.9825 Debug 2340 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 8:26:37 AM
+2019-03-12 08:31:36.9917 Debug 18352 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 8:31:36 AM
+2019-03-12 08:43:49.8640 Debug 11372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 8:43:49 AM
+2019-03-12 08:50:10.3011 Debug 13684 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 8:50:10 AM
+2019-03-12 08:55:53.5361 Debug 15528 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 8:55:53 AM
+2019-03-12 08:56:37.8673 Debug 19332 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 8:56:37 AM
+2019-03-12 08:57:33.2933 Debug 4308 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 8:57:33 AM
+2019-03-12 09:01:01.6070 Debug 19640 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:01:01 AM
+2019-03-12 09:10:13.1459 Debug 7476 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:10:13 AM
+2019-03-12 09:32:51.4005 Debug 17952 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:32:51 AM
+2019-03-12 09:32:52.0019 Error 17952 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
  Exception found!!!
-                                    Exception: Attempted to divide by zero. 
+                                    Exception: Sequence contains no elements 
 
-                                    Verb: GET 
+                                    Verb: POST 
 
+2019-03-12 09:33:18.7679 Debug 16080 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:33:18 AM
+2019-03-12 09:34:00.5056 Debug 22000 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:34:00 AM
+2019-03-12 09:36:53.2017 Debug 15860 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:36:53 AM
+2019-03-12 09:37:03.9571 Debug 15860 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 09:47:38.8807 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:47:38 AM
+2019-03-12 09:47:39.4814 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 09:55:23.3380 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:55:23 AM
+2019-03-12 09:55:25.4743 Error 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+ Exception found!!!
+                                    Exception: Object reference not set to an instance of an object. 
+
+                                    Verb: POST 
+
+2019-03-12 09:57:55.9504 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 9:57:55 AM
+2019-03-12 09:57:58.1550 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 10:19:12.4609 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:19:12 AM
+2019-03-12 10:19:14.9015 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 10:26:51.2623 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:26:51 AM
+2019-03-12 10:26:53.3035 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 10:27:42.9151 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:27:42 AM
+2019-03-12 10:27:43.2149 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 10:28:09.7420 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:28:09 AM
+2019-03-12 10:28:09.7571 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 10:28:45.9108 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:28:45 AM
+2019-03-12 10:28:46.3048 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 10:30:22.6445 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:30:22 AM
+2019-03-12 10:30:25.0184 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 10:39:39.1968 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:39:39 AM
+2019-03-12 10:39:41.3638 Error 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+ Exception found!!!
+                                    Exception: The model backing the 'MyContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269). 
+
+                                    Verb: POST 
+
+2019-03-12 10:40:20.0325 Debug 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:40:20 AM
+2019-03-12 10:40:22.2647 Error 12252 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+ Exception found!!!
+                                    Exception: The model backing the 'MyContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269). 
+
+                                    Verb: POST 
+
+2019-03-12 10:42:39.2461 Debug 19688 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:42:39 AM
+2019-03-12 10:43:13.1939 Debug 20352 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 10:43:13 AM
+2019-03-12 12:15:34.9799 Debug 6412 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:15:34 PM
+2019-03-12 12:18:29.6692 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:18:29 PM
+2019-03-12 12:18:30.1678 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:20:09.9358 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:20:09 PM
+2019-03-12 12:20:12.3631 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:20:45.9439 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:20:45 PM
+2019-03-12 12:20:48.3473 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:25:11.7571 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:25:11 PM
+2019-03-12 12:25:14.0638 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:25:53.6444 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:25:53 PM
+2019-03-12 12:25:56.1134 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:26:44.8487 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:26:44 PM
+2019-03-12 12:26:45.2328 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:28:29.9381 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:28:29 PM
+2019-03-12 12:28:32.3391 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:29:16.0300 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:29:16 PM
+2019-03-12 12:29:16.0511 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:29:38.3324 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:29:38 PM
+2019-03-12 12:29:40.7464 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:30:04.2305 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:30:04 PM
+2019-03-12 12:30:04.2506 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:30:53.4207 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:30:53 PM
+2019-03-12 12:30:55.9053 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:34:46.4914 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:34:46 PM
+2019-03-12 12:34:48.9243 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:37:07.4031 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:37:07 PM
+2019-03-12 12:37:07.7460 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:40:55.0667 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:40:55 PM
+2019-03-12 12:40:57.4197 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:41:48.8703 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:41:48 PM
+2019-03-12 12:41:51.2676 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:42:57.4247 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:42:57 PM
+2019-03-12 12:42:59.9606 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:44:08.3389 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:44:08 PM
+2019-03-12 12:44:10.6674 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:45:43.2805 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:45:43 PM
+2019-03-12 12:45:43.7347 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:47:15.6695 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:47:15 PM
+2019-03-12 12:47:18.1569 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:49:51.7410 Debug 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:49:51 PM
+2019-03-12 12:49:53.8988 Error 16428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+ Exception found!!!
+                                    Exception: Object reference not set to an instance of an object. 
+
+                                    Verb: POST 
+
+2019-03-12 12:50:21.2728 Debug 13096 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:50:21 PM
+2019-03-12 12:52:40.9773 Debug 9828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:52:40 PM
+2019-03-12 12:52:41.4474 Debug 9828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:55:45.2922 Debug 9828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:55:45 PM
+2019-03-12 12:55:47.6396 Debug 9828 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 12:59:27.0208 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 12:59:27 PM
+2019-03-12 12:59:27.5220 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:06:16.3535 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:06:16 PM
+2019-03-12 13:06:18.7316 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:06:54.2960 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:06:54 PM
+2019-03-12 13:06:54.3140 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:07:20.2955 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:07:20 PM
+2019-03-12 13:07:22.7125 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:08:04.8918 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:08:04 PM
+2019-03-12 13:08:07.2160 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:09:16.6440 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:09:16 PM
+2019-03-12 13:09:16.9929 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:10:32.1304 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:10:32 PM
+2019-03-12 13:10:34.5410 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:12:38.5863 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:12:38 PM
+2019-03-12 13:12:41.0409 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:13:34.5090 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:13:34 PM
+2019-03-12 13:13:36.9127 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-12 13:14:22.0692 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 12/03/2019 1:14:22 PM
+2019-03-12 13:14:24.4551 Debug 9468 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 08:51:53.3883 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 8:51:53 AM
+2019-03-14 08:51:54.3449 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 08:56:02.9833 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 8:56:02 AM
+2019-03-14 08:56:05.2533 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 08:56:56.5528 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 8:56:56 AM
+2019-03-14 08:56:58.8765 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 08:58:05.6522 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 8:58:05 AM
+2019-03-14 08:58:08.0790 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 09:00:42.7455 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 9:00:42 AM
+2019-03-14 09:00:43.1849 Debug 19356 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:02:00.3026 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:02:00 PM
+2019-03-14 13:02:00.3026 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:02:00 PM
+2019-03-14 13:02:00.3026 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:02:00 PM
+2019-03-14 13:02:00.3026 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:02:00 PM
+2019-03-14 13:02:00.3026 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:02:00 PM
+2019-03-14 13:02:01.0287 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:02:01.0287 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:02:01.0287 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:02:01.0287 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:02:01.0287 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:02:01.0728 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:02:01 PM
+2019-03-14 13:02:01.0909 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:07:32.8473 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:07:32 PM
+2019-03-14 13:07:32.8653 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:12:50.5102 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:12:50 PM
+2019-03-14 13:12:50.5242 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:15:28.6625 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:15:28 PM
+2019-03-14 13:15:28.6796 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:23:43.6829 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:23:43 PM
+2019-03-14 13:23:43.6959 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 13:27:40.4471 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 1:27:40 PM
+2019-03-14 13:27:40.4621 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 14:10:37.3738 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 2:10:37 PM
+2019-03-14 14:10:37.3929 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-14 14:11:57.1187 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 14/03/2019 2:11:57 PM
+2019-03-14 14:11:57.1307 Debug 19636 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-15 14:54:11.6314 Debug 13028 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 15/03/2019 2:54:11 PM
+2019-03-15 14:54:12.4345 Debug 13028 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed

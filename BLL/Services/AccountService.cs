@@ -2,6 +2,7 @@
 using DAL;
 using DAL.Interfaces;
 using Model;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,19 +20,19 @@ namespace BLL.Services
             this.iar = iar;
         }
 
-        public Transaction ServeCheckEmail(Registration registration)
+        public Transaction ServeValidateEmail(Registration registration)
         {
-            return this.iar.CheckEmail(registration);
+            return this.iar.ValidateEmail(registration);
         }
 
-        public Transaction ServeCheckUserName(Registration registration)
+        public Transaction ServeValidateUsername(Registration registration)
         {
-            return this.iar.CheckUserName(registration);
+            return this.iar.ValidateUsername(registration);
         }
 
-        public Transaction ServeCreateUser(Registration registration)
+        public Transaction ServeCreateUser(UserRegistration userRegistration)
         {
-            return this.iar.CreateUser(registration);
+            return this.iar.CreateUser(userRegistration);
         }
     }
 }

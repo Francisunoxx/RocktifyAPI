@@ -11,5 +11,28 @@ namespace DAL
     public class MyContext : DbContext
     {
         public DbSet<User> Users { get; set; }
+        public DbSet<Registration> Registrations { get; set; }
+        public DbSet<UserAccount> UserAccounts { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Registration>()
+                .HasKey(x => x.Id);
+
+            modelBuilder.Entity<UserAccount>()
+                .HasKey(x => x.Id);
+
+            modelBuilder.Entity<User>()
+                .HasRequired(x => x.Registration)
+                .WithRequiredPrincipal(x => x.User)
+                .WillCascadeOnDelete(true);
+
+            modelBuilder.Entity<User>()
+                .HasRequired(x => x.UserAccount)
+                .WithRequiredPrincipal(x => x.User)
+                .WillCascadeOnDelete(true);
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

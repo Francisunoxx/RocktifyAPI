@@ -1,4 +1,5 @@
 ﻿using Model;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,8 +10,8 @@ namespace DAL.Interfaces
 {
     public interface IAccountRepository
     {
-        Transaction CheckUserName(Registration registration);
-        Transaction CheckEmail(Registration registration);
-        Transaction CreateUser(Registration registration);
+        Transaction ValidateUsername(Registration registration);
+        Transaction ValidateEmail(Registration registration);
+        Transaction CreateUser(UserRegistration userRegistration);
     }
 }
