@@ -5,41 +5,25 @@ using System.Web.Http;
 
 namespace RocktifyAPI.Controllers
 {
-    [RoutePrefix("api/v1/register")]
-    public class RegisterController : ApiController
+    [RoutePrefix("api/v1/authentication")]
+    public class AuthenticationController : ApiController
     {
         private readonly IAccountService ias;
 
-        public RegisterController() { }
-
-        public RegisterController(IAccountService ias)
+        public AuthenticationController() { }
+        public AuthenticationController(IAccountService ias)
         {
             this.ias = ias;
         }
 
-        [Route("validate-email")]
-        [HttpGet]
-        public IHttpActionResult ValidateEmail([FromBody] Registration registration)
-        {
-            return Ok(this.ias.ServeValidateEmail(registration));
-        }
-
-        [Route("validate-username")]
-        [HttpGet]
-        public IHttpActionResult ValidateUserName([FromBody] Registration registration)
-        {
-            return Ok(this.ias.ServeValidateUsername(registration));
-        }
-
-
-        [Route("create")]
+        [Route("login")]
         [HttpPost]
-        public IHttpActionResult CreateUser([FromBody] JObject userRegistration)
+        public IHttpActionResult Login([FromBody] JObject jObject)
         {
             Registration r = new Registration();
             UserAccount ua = new UserAccount();
 
-            foreach (JProperty x in (JToken)userRegistration)
+            foreach (JProperty x in (JToken)jObject)
             {
                 string name = x.Name;
                 JToken value = x.Value;
@@ -63,11 +47,11 @@ namespace RocktifyAPI.Controllers
                 }
             }
 
-            UserRegistration ur = new UserRegistration();
-            ur.Registration = r;
-            ur.UserAccount = ua;
+            User user = new User();
+            user.Registration = r;
+            user.UserAccount = ua;
 
-            return Ok(this.ias.ServeCreateUser(ur));
+            return Ok(this.ias.ServeValidateAccount(user));
         }
     }
 }

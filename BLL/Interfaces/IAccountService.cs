@@ -14,5 +14,6 @@ namespace BLL.Interfaces
         Transaction ServeValidateEmail(Registration registration);
         Transaction ServeValidateUsername(Registration registration);
         Transaction ServeCreateUser(UserRegistration userRegistration);
+        Transaction ServeValidateAccount(User user);
     }
 }

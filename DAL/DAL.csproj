@@ -67,9 +67,9 @@
   <ItemGroup>
     <Compile Include="Interfaces\IAccountRepository.cs" />
     <Compile Include="Interfaces\IUser.cs" />
-    <Compile Include="Migrations\201903150650046_RocktifyDB-v1.cs" />
-    <Compile Include="Migrations\201903150650046_RocktifyDB-v1.Designer.cs">
-      <DependentUpon>201903150650046_RocktifyDB-v1.cs</DependentUpon>
+    <Compile Include="Migrations\201903211047317_RocktifyDB-v1.cs" />
+    <Compile Include="Migrations\201903211047317_RocktifyDB-v1.Designer.cs">
+      <DependentUpon>201903211047317_RocktifyDB-v1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="MyContext.cs" />
@@ -96,8 +96,8 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201903150650046_RocktifyDB-v1.resx">
-      <DependentUpon>201903150650046_RocktifyDB-v1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201903211047317_RocktifyDB-v1.resx">
+      <DependentUpon>201903211047317_RocktifyDB-v1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

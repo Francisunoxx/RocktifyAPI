@@ -34,5 +34,10 @@ namespace BLL.Services
         {
             return this.iar.CreateUser(userRegistration);
         }
+
+        public Transaction ServeValidateAccount(User user)
+        {
+            return this.iar.ValidateAccount(user);
+        }
     }
 }

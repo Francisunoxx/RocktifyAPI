@@ -13,5 +13,6 @@ namespace DAL.Interfaces
         Transaction ValidateUsername(Registration registration);
         Transaction ValidateEmail(Registration registration);
         Transaction CreateUser(UserRegistration userRegistration);
+        Transaction ValidateAccount(User user);
     }
 }

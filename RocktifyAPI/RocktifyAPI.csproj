@@ -150,7 +150,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\AuthenticationController.cs" />
     <Compile Include="Controllers\RegisterController.cs" />
     <Compile Include="Filters\LoggerFilter.cs" />
     <Compile Include="NinjectBindings.cs" />

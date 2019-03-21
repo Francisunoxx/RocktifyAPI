@@ -40,7 +40,7 @@ namespace DAL.Repositories
                 }
                 else
                 {
-                    return new Transaction { Message = "Username is free to use", IsCompleted = true };
+                    return new Transaction { Message = "Username is free to use!", IsCompleted = true };
                 }
             }
         }
@@ -75,7 +75,7 @@ namespace DAL.Repositories
 
                         transaction.Commit();
 
-                        w = new Transaction { Message = "Successful", IsCompleted = true };
+                        w = new Transaction { Message = "Successful!", IsCompleted = true };
                     }
                 }
             }
@@ -90,6 +90,44 @@ namespace DAL.Repositories
             else if (!userName.IsCompleted && !email.IsCompleted)
             {
                 w = new Transaction { Message = "Email and Username are already taken!", IsCompleted = false };
+            }
+
+            return w;
+        }
+
+        public Transaction ValidateAccount(User u)
+        {
+            var w = new Transaction();
+
+            using (var db = new MyContext())
+            {
+                var check = db.Users
+                    .Join(db.Registrations,
+                            user => user.UserId,
+                            registration => registration.RegistrationId,
+                            (user, registration) => new { user, registration })
+                    .Join(db.UserAccounts,
+                            user1 => user1.user.UserId,
+                            useraccount => useraccount.UserAccountId,
+                            (user1, useraccount) => new { user1, useraccount })
+                    .Where(x => x.user1.registration.Username == u.Registration.Username &&
+                            x.useraccount.Password == u.UserAccount.Password)
+                    .Select(x => new
+                    {
+                        x.user1.registration.Username,
+                        x.useraccount.Password
+                    })
+                    .AsQueryable()
+                    .ToList();
+
+                if (check != null)
+                {
+                    w = new Transaction { Message = "Successful!", IsCompleted = true };
+                }
+                else
+                {
+                    w = new Transaction { Message = "Invalid Username or Password", IsCompleted = false };
+                }
             }
 
             return w;

@@ -11,7 +11,7 @@ namespace DAL.Migrations
                 "dbo.Registrations",
                 c => new
                     {
-                        Id = c.Int(nullable: false),
+                        RegistrationId = c.Int(nullable: false),
                         Firstname = c.String(),
                         Lastname = c.String(),
                         Username = c.String(),
@@ -20,43 +20,43 @@ namespace DAL.Migrations
                         ModifiedDate = c.DateTime(precision: 7, storeType: "datetime2"),
                         IsActive = c.Boolean(nullable: false),
                     })
-                .PrimaryKey(t => t.Id)
-                .ForeignKey("dbo.Users", t => t.Id, cascadeDelete: true)
-                .Index(t => t.Id);
+                .PrimaryKey(t => t.RegistrationId)
+                .ForeignKey("dbo.Users", t => t.RegistrationId, cascadeDelete: true)
+                .Index(t => t.RegistrationId);
             
             CreateTable(
                 "dbo.Users",
                 c => new
                     {
-                        Id = c.Int(nullable: false, identity: true),
+                        UserId = c.Int(nullable: false, identity: true),
                         CreatedDate = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
                         ModifiedDate = c.DateTime(precision: 7, storeType: "datetime2"),
                         IsActive = c.Boolean(nullable: false),
                     })
-                .PrimaryKey(t => t.Id);
+                .PrimaryKey(t => t.UserId);
             
             CreateTable(
                 "dbo.UserAccounts",
                 c => new
                     {
-                        Id = c.Int(nullable: false),
+                        UserAccountId = c.Int(nullable: false),
                         Password = c.String(),
                         CreatedDate = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
                         ModifiedDate = c.DateTime(precision: 7, storeType: "datetime2"),
                         IsActive = c.Boolean(nullable: false),
                     })
-                .PrimaryKey(t => t.Id)
-                .ForeignKey("dbo.Users", t => t.Id, cascadeDelete: true)
-                .Index(t => t.Id);
+                .PrimaryKey(t => t.UserAccountId)
+                .ForeignKey("dbo.Users", t => t.UserAccountId, cascadeDelete: true)
+                .Index(t => t.UserAccountId);
             
         }
         
         public override void Down()
         {
-            DropForeignKey("dbo.UserAccounts", "Id", "dbo.Users");
-            DropForeignKey("dbo.Registrations", "Id", "dbo.Users");
-            DropIndex("dbo.UserAccounts", new[] { "Id" });
-            DropIndex("dbo.Registrations", new[] { "Id" });
+            DropForeignKey("dbo.UserAccounts", "UserAccountId", "dbo.Users");
+            DropForeignKey("dbo.Registrations", "RegistrationId", "dbo.Users");
+            DropIndex("dbo.UserAccounts", new[] { "UserAccountId" });
+            DropIndex("dbo.Registrations", new[] { "RegistrationId" });
             DropTable("dbo.UserAccounts");
             DropTable("dbo.Users");
             DropTable("dbo.Registrations");

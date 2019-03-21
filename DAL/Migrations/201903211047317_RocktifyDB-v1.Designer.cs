@@ -13,7 +13,7 @@ namespace DAL.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201903150650046_RocktifyDB-v1"; }
+            get { return "201903211047317_RocktifyDB-v1"; }
         }
         
         string IMigrationMetadata.Source

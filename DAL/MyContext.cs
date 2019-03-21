@@ -17,10 +17,10 @@ namespace DAL
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Registration>()
-                .HasKey(x => x.Id);
+                .HasKey(x => x.RegistrationId);
 
             modelBuilder.Entity<UserAccount>()
-                .HasKey(x => x.Id);
+                .HasKey(x => x.UserAccountId);
 
             modelBuilder.Entity<User>()
                 .HasRequired(x => x.Registration)

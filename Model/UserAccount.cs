@@ -11,7 +11,7 @@ namespace Model
     public class UserAccount : Common
     {
         [Key]
-        public int Id { get; set; }
+        public int UserAccountId { get; set; }
         public string Password { get; set; }
         public virtual User User { get; set; }
     }

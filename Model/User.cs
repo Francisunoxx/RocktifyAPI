@@ -10,7 +10,7 @@ namespace Model
     public class User : Common
     {
         [Key]
-        public int Id { get; set; }
+        public int UserId { get; set; }
         public virtual Registration Registration { get; set; }
         public virtual UserAccount UserAccount { get; set; }
     }
