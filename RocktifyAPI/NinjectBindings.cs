@@ -16,6 +16,8 @@ namespace RocktifyAPI
         {
             this.Bind<IAccountRepository>().To<AccountRepository>();
             this.Bind<IAccountService>().To<AccountService>();
+            this.Bind<IRocktifyRepository>().To<RocktifyRepository>();
+            this.Bind<IRocktifyService>().To<RocktifyService>();
         }
     }
 }

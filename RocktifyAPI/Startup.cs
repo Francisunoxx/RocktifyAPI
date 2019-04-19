@@ -32,7 +32,7 @@ namespace RocktifyAPI
                 //Add CORS Policy
                 PolicyProvider = new CorsPolicyProvider
                 {
-                    PolicyResolver = context =>
+                    PolicyResolver = context => 
                     {
                         //Task.FromResult(new CorsPolicy
                         var policy = new CorsPolicy
@@ -43,6 +43,7 @@ namespace RocktifyAPI
                             SupportsCredentials = true
                         };
                         policy.Origins.Add("http://localhost:8080");
+                        policy.Origins.Add("https://accounts.spotify.com/api/token");
 
                         return Task.FromResult(policy);
                     }

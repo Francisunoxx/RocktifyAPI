@@ -46,6 +46,7 @@
     <Compile Include="LogMetadata.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registration.cs" />
+    <Compile Include="Spotify.cs" />
     <Compile Include="Transaction.cs" />
     <Compile Include="User.cs" />
     <Compile Include="UserAccount.cs" />

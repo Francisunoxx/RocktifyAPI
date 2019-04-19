@@ -120,7 +120,7 @@ namespace DAL.Repositories
                     .AsQueryable()
                     .ToList();
 
-                if (check != null)
+                if (check.Count != 0)
                 {
                     w = new Transaction { Message = "Successful!", IsCompleted = true };
                 }
@@ -129,9 +129,8 @@ namespace DAL.Repositories
                     w = new Transaction { Message = "Invalid Username or Password", IsCompleted = false };
                 }
             }
-
+        
             return w;
         }
-
     }
 }

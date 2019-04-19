@@ -1065,3 +1065,2990 @@ Uri: /api/v1/authentication/login, Verb: POST, Date: 21/03/2019 9:09:42 PM
 Uri: /api/v1/authentication/login, Verb: POST, Date: 21/03/2019 9:24:26 PM
 2019-03-21 21:25:39.7613 Debug 10892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
 Uri: /api/v1/authentication/login, Verb: POST, Date: 21/03/2019 9:25:39 PM
+2019-03-29 12:25:19.2923 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 29/03/2019 12:25:19 PM
+2019-03-29 12:25:20.0889 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-29 12:25:23.2575 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 29/03/2019 12:25:23 PM
+2019-03-29 12:25:23.2575 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-29 12:25:24.3699 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 29/03/2019 12:25:24 PM
+2019-03-29 12:25:24.3749 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-29 12:25:25.9705 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 29/03/2019 12:25:25 PM
+2019-03-29 12:25:25.9705 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-29 12:57:37.9537 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 29/03/2019 12:57:37 PM
+2019-03-29 12:57:37.9627 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-29 12:58:29.7715 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 29/03/2019 12:58:29 PM
+2019-03-29 12:58:29.7715 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-03-29 12:58:30.6826 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 29/03/2019 12:58:30 PM
+2019-03-29 12:58:30.6826 Debug 11048 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 11:09:55.0742 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 1/04/2019 11:09:55 AM
+2019-04-01 11:09:55.8784 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:38:33.5385 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:38:33 PM
+2019-04-01 13:38:33.6441 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:42:00.9397 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:42:00 PM
+2019-04-01 13:42:00.9768 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:42:03.6823 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:42:03 PM
+2019-04-01 13:42:03.6823 Debug 10436 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:42:35.1047 Debug 16124 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:42:35 PM
+2019-04-01 13:43:16.8942 Debug 12924 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:43:16 PM
+2019-04-01 13:45:19.8592 Debug 19532 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:45:19 PM
+2019-04-01 13:46:35.4613 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:46:35 PM
+2019-04-01 13:46:35.9606 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:51:00.3866 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:51:00 PM
+2019-04-01 13:51:00.3866 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:51:00 PM
+2019-04-01 13:51:00.3987 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:51:00.4137 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:51:50.2677 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:51:50 PM
+2019-04-01 13:51:50.2677 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:51:50 PM
+2019-04-01 13:51:50.3069 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:51:50.3069 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 13:52:06.4630 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 1:52:06 PM
+2019-04-01 13:52:06.4630 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 14:00:58.7117 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 2:00:58 PM
+2019-04-01 14:00:58.7237 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 14:01:20.2743 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 2:01:20 PM
+2019-04-01 14:01:20.2743 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 2:01:20 PM
+2019-04-01 14:01:20.2833 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 14:01:20.2833 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 14:02:20.7694 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 2:02:20 PM
+2019-04-01 14:02:20.7694 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 2:02:20 PM
+2019-04-01 14:02:20.7694 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 14:02:20.7864 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 14:03:06.8622 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 2:03:06 PM
+2019-04-01 14:03:06.8622 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 1/04/2019 2:03:06 PM
+2019-04-01 14:03:06.8622 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-01 14:03:06.8622 Debug 22088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:40:20.6431 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:40:20 AM
+2019-04-03 08:40:21.4123 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:40:55.2338 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:40:55 AM
+2019-04-03 08:40:55.2338 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:43:43.7228 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:43:43 AM
+2019-04-03 08:43:43.7279 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:48:28.1253 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:48:28 AM
+2019-04-03 08:48:28.1297 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:48:28 AM
+2019-04-03 08:48:28.1297 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:48:28.1297 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:48:39.8866 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:48:39 AM
+2019-04-03 08:48:39.8866 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:48:39 AM
+2019-04-03 08:48:39.8976 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:48:39.9257 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:48:59.7614 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:48:59 AM
+2019-04-03 08:48:59.7614 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:48:59 AM
+2019-04-03 08:48:59.7614 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:48:59.7705 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:49:18.8785 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:49:18 AM
+2019-04-03 08:49:18.8816 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:49:34.4671 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:49:34 AM
+2019-04-03 08:49:34.4731 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:50:15.5798 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:50:15 AM
+2019-04-03 08:50:15.5868 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:57:44.9801 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:57:44 AM
+2019-04-03 08:57:44.9801 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:57:46.5409 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:57:46 AM
+2019-04-03 08:57:46.5409 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:58:13.7834 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:58:13 AM
+2019-04-03 08:58:13.7834 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:58:16.3335 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:58:16 AM
+2019-04-03 08:58:16.3385 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:59:17.0990 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:59:17 AM
+2019-04-03 08:59:17.1051 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:59:18.2132 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:59:18 AM
+2019-04-03 08:59:18.2132 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 08:59:41.6290 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 8:59:41 AM
+2019-04-03 08:59:41.6350 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:00:00.6803 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:00:00 AM
+2019-04-03 09:00:00.6803 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:00:51.2689 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 3/04/2019 9:00:51 AM
+2019-04-03 09:00:51.3371 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:01:09.8822 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 3/04/2019 9:01:09 AM
+2019-04-03 09:01:09.8822 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:03:11.2583 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:03:11 AM
+2019-04-03 09:03:11.2583 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:03:18.5823 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:03:18 AM
+2019-04-03 09:03:18.5853 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:03:19.7491 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:03:19 AM
+2019-04-03 09:03:19.7491 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:03:32.5650 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:03:32 AM
+2019-04-03 09:03:32.5650 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:03:33.5208 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:03:33 AM
+2019-04-03 09:03:33.5248 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:04:28.8320 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:04:28 AM
+2019-04-03 09:04:28.8381 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:04:29.9668 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:04:29 AM
+2019-04-03 09:04:29.9668 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:04:57.0561 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:04:57 AM
+2019-04-03 09:04:57.0561 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:05:33.5895 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:05:33 AM
+2019-04-03 09:05:33.5895 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:05:39.1872 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:05:39 AM
+2019-04-03 09:05:39.1872 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:06:12.3474 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:06:12 AM
+2019-04-03 09:06:12.3534 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-03 09:06:15.4141 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 3/04/2019 9:06:15 AM
+2019-04-03 09:06:15.4141 Debug 9068 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 09:40:39.2307 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 9:40:39 AM
+2019-04-04 09:40:39.9576 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 09:41:02.2973 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 9:41:02 AM
+2019-04-04 09:41:02.2973 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 09:41:28.3419 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 9:41:28 AM
+2019-04-04 09:41:28.3419 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 09:41:47.2679 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 9:41:47 AM
+2019-04-04 09:41:47.2679 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 09:42:57.2068 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 9:42:57 AM
+2019-04-04 09:42:57.2068 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:02:50.3926 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:02:50 AM
+2019-04-04 10:02:50.3926 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:03:03.6760 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:03:03 AM
+2019-04-04 10:03:03.6760 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:03:46.5648 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:03:46 AM
+2019-04-04 10:03:46.5648 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:35:06.2842 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:35:06 AM
+2019-04-04 10:35:06.3172 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:35:37.2956 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:35:37 AM
+2019-04-04 10:35:37.2956 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:35:37.3136 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:35:37 AM
+2019-04-04 10:35:37.3136 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:35:54.1416 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:35:54 AM
+2019-04-04 10:35:54.1416 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:35:54 AM
+2019-04-04 10:35:54.1416 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:35:54.1646 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:36:02.4103 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:36:02 AM
+2019-04-04 10:36:02.4103 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:36:02 AM
+2019-04-04 10:36:02.4183 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:36:02.4183 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:36:51.6158 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:36:51 AM
+2019-04-04 10:36:51.6228 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:36:55.7232 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:36:55 AM
+2019-04-04 10:36:55.7232 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:38:16.7314 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:38:16 AM
+2019-04-04 10:38:16.7314 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:38:22.8709 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:38:22 AM
+2019-04-04 10:38:22.8709 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:55:12.2704 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:55:12 AM
+2019-04-04 10:55:12.2704 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 10:58:49.2855 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 10:58:49 AM
+2019-04-04 10:58:49.2855 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 11:01:05.8927 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 11:01:05 AM
+2019-04-04 11:01:05.8927 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 11:02:11.8206 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 11:02:11 AM
+2019-04-04 11:02:11.8307 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 11:03:40.0632 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 11:03:40 AM
+2019-04-04 11:03:40.0632 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-04 11:06:05.9296 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 4/04/2019 11:06:05 AM
+2019-04-04 11:06:05.9356 Debug 7556 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 13:45:47.6863 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 1:45:47 PM
+2019-04-06 13:45:48.5700 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 13:45:49.4941 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 1:45:49 PM
+2019-04-06 13:45:49.4941 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 13:45:50.4597 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 1:45:50 PM
+2019-04-06 13:45:50.4597 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 13:46:02.4424 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 1:46:02 PM
+2019-04-06 13:46:02.4484 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 13:51:01.0058 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 1:51:01 PM
+2019-04-06 13:51:01.0139 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:02:03.2924 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:02:03 PM
+2019-04-06 14:02:03.3044 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:02:15.5684 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:02:15 PM
+2019-04-06 14:02:15.5744 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:02:34.2852 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:02:34 PM
+2019-04-06 14:02:34.2933 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:04:22.4937 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:04:22 PM
+2019-04-06 14:04:22.4937 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:05:02.1041 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:05:02 PM
+2019-04-06 14:05:02.1041 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:06:01.3706 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:06:01 PM
+2019-04-06 14:06:01.3706 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:06:36.0466 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:06:36 PM
+2019-04-06 14:06:36.0536 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:08:03.1914 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:08:03 PM
+2019-04-06 14:08:03.2004 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:08:17.5830 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:08:17 PM
+2019-04-06 14:08:17.5881 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:08:21.1665 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:08:21 PM
+2019-04-06 14:08:21.1816 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:08:28.1751 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:08:28 PM
+2019-04-06 14:08:28.1821 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:08:32.6104 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:08:32 PM
+2019-04-06 14:08:32.6174 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:08:36.1933 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:08:36 PM
+2019-04-06 14:08:36.2013 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:09:30.4167 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:09:30 PM
+2019-04-06 14:09:30.4167 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:09:59.0675 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:09:59 PM
+2019-04-06 14:09:59.0735 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:10:00.8595 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:10:00 PM
+2019-04-06 14:10:00.8685 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:10:01.2658 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:10:01 PM
+2019-04-06 14:10:01.2728 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:10:09.3708 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:10:09 PM
+2019-04-06 14:10:09.3708 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:10:14.8243 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:10:14 PM
+2019-04-06 14:10:14.8353 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:10:22.6471 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:10:22 PM
+2019-04-06 14:10:22.6861 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:11:13.1011 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:11:13 PM
+2019-04-06 14:11:13.1011 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:11:16.5212 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:11:16 PM
+2019-04-06 14:11:16.5302 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:11:20.1010 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:11:20 PM
+2019-04-06 14:11:20.1010 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:11:23.4385 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:11:23 PM
+2019-04-06 14:11:23.4445 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:11:27.9184 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:11:27 PM
+2019-04-06 14:11:27.9184 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:11:30.8584 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:11:30 PM
+2019-04-06 14:11:30.8664 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:11:32.1938 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:11:32 PM
+2019-04-06 14:11:32.1938 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:12:14.7131 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:12:14 PM
+2019-04-06 14:12:14.7291 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:12:15.5891 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:12:15 PM
+2019-04-06 14:12:15.5891 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:12:24.4197 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:12:24 PM
+2019-04-06 14:12:24.4197 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:12:28.2148 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:12:28 PM
+2019-04-06 14:12:28.2268 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:12:58.5082 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:12:58 PM
+2019-04-06 14:12:58.5082 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:14:04.6075 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:14:04 PM
+2019-04-06 14:14:04.6075 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:14:05.8982 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:14:05 PM
+2019-04-06 14:14:05.8982 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:15:35.1273 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:15:35 PM
+2019-04-06 14:15:35.1353 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:15:37.2807 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:15:37 PM
+2019-04-06 14:15:37.2948 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:16:10.4954 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:16:10 PM
+2019-04-06 14:16:10.4954 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:16:13.2530 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:16:13 PM
+2019-04-06 14:16:13.2580 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:16:32.9927 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:16:32 PM
+2019-04-06 14:16:32.9927 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:16:44.1214 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:16:44 PM
+2019-04-06 14:16:44.1345 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:17:22.4052 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:17:22 PM
+2019-04-06 14:17:22.4132 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:17:58.0565 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:17:58 PM
+2019-04-06 14:17:58.0565 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:18:00.3163 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:18:00 PM
+2019-04-06 14:18:00.3233 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:18:47.5421 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:18:47 PM
+2019-04-06 14:18:47.5421 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:18:56.9019 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:18:56 PM
+2019-04-06 14:18:56.9019 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:19:32.2806 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:19:32 PM
+2019-04-06 14:19:32.2896 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:19:35.8537 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:19:35 PM
+2019-04-06 14:19:35.8537 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:19:36.0883 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 6/04/2019 2:19:36 PM
+2019-04-06 14:19:36.0883 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-06 14:20:38.1443 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 6/04/2019 2:20:38 PM
+2019-04-06 14:20:38.2325 Debug 7112 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:07:13.2891 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:07:13 AM
+2019-04-07 10:07:14.0192 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:10:49.5396 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:10:49 AM
+2019-04-07 10:10:49.5396 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:10:51.8218 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:10:51 AM
+2019-04-07 10:10:51.8368 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:11:40.1708 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:11:40 AM
+2019-04-07 10:11:40.1829 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:12:18.0969 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:12:18 AM
+2019-04-07 10:12:18.1060 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:12:22.4260 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:12:22 AM
+2019-04-07 10:12:22.4390 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:30:24.5391 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:30:24 AM
+2019-04-07 10:30:24.5391 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:30:27.0526 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:30:27 AM
+2019-04-07 10:30:27.0616 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:33:02.8935 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:33:02 AM
+2019-04-07 10:33:02.9016 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:34:15.4284 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:34:15 AM
+2019-04-07 10:34:15.4284 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:35:18.1785 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:35:18 AM
+2019-04-07 10:35:18.1785 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:35:22.6741 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:35:22 AM
+2019-04-07 10:35:22.6841 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:38:26.1251 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:38:26 AM
+2019-04-07 10:38:26.1341 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:39:41.4937 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:39:41 AM
+2019-04-07 10:39:41.4937 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:40:01.5882 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:40:01 AM
+2019-04-07 10:40:01.5882 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:40:21.4162 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:40:21 AM
+2019-04-07 10:40:21.4162 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:40:32.9667 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:40:32 AM
+2019-04-07 10:40:32.9667 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:41:22.7625 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:41:22 AM
+2019-04-07 10:41:22.7625 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:41:34.5604 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:41:34 AM
+2019-04-07 10:41:34.5694 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:43:15.5706 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:43:15 AM
+2019-04-07 10:43:15.5706 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:43:46.8410 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:43:46 AM
+2019-04-07 10:43:46.8500 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 10:44:11.4924 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 10:44:11 AM
+2019-04-07 10:44:11.4924 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:06:29.8031 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 11:06:29 AM
+2019-04-07 11:06:29.8031 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:06:35.2477 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 11:06:35 AM
+2019-04-07 11:06:35.2477 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:06:51.6926 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 11:06:51 AM
+2019-04-07 11:06:51.6997 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:07:33.5727 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:07:33 AM
+2019-04-07 11:07:33.6208 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:07:38.1486 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:07:38 AM
+2019-04-07 11:07:38.1486 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:07:55.4225 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:07:55 AM
+2019-04-07 11:07:55.4295 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:08:07.9128 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:08:07 AM
+2019-04-07 11:08:07.9128 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:20:11.3633 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 11:20:11 AM
+2019-04-07 11:20:11.3763 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:51:16.9947 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:51:16 AM
+2019-04-07 11:51:17.0087 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:51:36.9651 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:51:36 AM
+2019-04-07 11:51:36.9651 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:51:38.9854 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:51:38 AM
+2019-04-07 11:51:38.9965 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:51:55.8599 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:51:55 AM
+2019-04-07 11:51:55.8689 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 11:54:30.3880 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 11:54:30 AM
+2019-04-07 11:54:30.3970 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:03:19.2318 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:03:19 PM
+2019-04-07 12:03:19.2448 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:11:01.4599 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:11:01 PM
+2019-04-07 12:11:01.4599 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:14:37.9933 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:14:37 PM
+2019-04-07 12:14:37.9933 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:15:21.5511 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:15:21 PM
+2019-04-07 12:15:21.5601 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:17:04.0785 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:17:04 PM
+2019-04-07 12:17:04.0875 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:17:06.5225 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:17:06 PM
+2019-04-07 12:17:06.5225 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:17:17.0843 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:17:17 PM
+2019-04-07 12:17:17.0843 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:19:02.1593 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:19:02 PM
+2019-04-07 12:19:02.1683 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:19:33.8889 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:19:33 PM
+2019-04-07 12:19:33.8980 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:21:24.8105 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:21:24 PM
+2019-04-07 12:21:24.8195 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:23:16.3580 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:23:16 PM
+2019-04-07 12:23:16.3670 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:23:40.2738 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:23:40 PM
+2019-04-07 12:23:40.2738 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:24:34.1117 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:24:34 PM
+2019-04-07 12:24:34.1328 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:25:18.1676 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:25:18 PM
+2019-04-07 12:25:18.1676 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:25:34.4680 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:25:34 PM
+2019-04-07 12:25:34.4750 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:31:51.3014 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:31:51 PM
+2019-04-07 12:31:51.3104 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:33:12.1299 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:33:12 PM
+2019-04-07 12:33:12.1389 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:34:44.1642 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:34:44 PM
+2019-04-07 12:34:44.1642 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:34:51.5344 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:34:51 PM
+2019-04-07 12:34:51.5424 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:36:03.8190 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:36:03 PM
+2019-04-07 12:36:03.8190 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:37:10.8876 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:37:10 PM
+2019-04-07 12:37:10.8986 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:39:15.1131 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 12:39:15 PM
+2019-04-07 12:39:15.1242 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:39:59.6186 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 12:39:59 PM
+2019-04-07 12:39:59.6316 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:41:50.7981 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:41:50 PM
+2019-04-07 12:41:50.8072 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:42:18.8145 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:42:18 PM
+2019-04-07 12:42:18.8226 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:44:15.9037 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:44:15 PM
+2019-04-07 12:44:15.9157 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:45:19.1999 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:45:19 PM
+2019-04-07 12:45:19.2099 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:45:38.5611 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:45:38 PM
+2019-04-07 12:45:38.5701 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:45:51.4239 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:45:51 PM
+2019-04-07 12:45:51.4349 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:46:05.5132 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:46:05 PM
+2019-04-07 12:46:05.5233 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:46:14.6712 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:46:14 PM
+2019-04-07 12:46:14.6903 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:48:24.8349 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:48:24 PM
+2019-04-07 12:48:24.8579 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:49:05.9476 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:49:05 PM
+2019-04-07 12:49:05.9476 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:49:56.6755 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:49:56 PM
+2019-04-07 12:49:56.7156 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:50:38.0397 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 12:50:38 PM
+2019-04-07 12:50:38.0397 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:51:26.0391 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 12:51:26 PM
+2019-04-07 12:51:26.0551 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:51:44.8170 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 12:51:44 PM
+2019-04-07 12:51:44.8413 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:52:22.9482 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 12:52:22 PM
+2019-04-07 12:52:22.9614 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 12:55:37.7193 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 12:55:37 PM
+2019-04-07 12:55:37.7303 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:03:40.6214 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:03:40 PM
+2019-04-07 13:03:40.6595 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:05:59.6070 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:05:59 PM
+2019-04-07 13:05:59.6180 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:06:05.4060 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:06:05 PM
+2019-04-07 13:06:05.4281 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:06:46.1536 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:06:46 PM
+2019-04-07 13:06:46.1646 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:06:48.7293 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:06:48 PM
+2019-04-07 13:06:48.7454 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:06:57.9923 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:06:57 PM
+2019-04-07 13:06:58.0104 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:07:24.4906 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:07:24 PM
+2019-04-07 13:07:24.5116 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:08:37.0760 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:08:37 PM
+2019-04-07 13:08:37.0957 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:09:06.5112 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:09:06 PM
+2019-04-07 13:09:06.5112 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:10:11.5059 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:10:11 PM
+2019-04-07 13:10:11.5199 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:10:54.9507 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:10:54 PM
+2019-04-07 13:10:54.9598 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:11:56.5672 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:11:56 PM
+2019-04-07 13:11:56.5803 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:12:29.8743 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:12:29 PM
+2019-04-07 13:12:29.9184 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:13:45.5702 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:13:45 PM
+2019-04-07 13:13:45.5702 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:14:50.8464 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 1:14:50 PM
+2019-04-07 13:14:50.8655 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:15:31.2768 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:15:31 PM
+2019-04-07 13:15:31.2918 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:16:01.2505 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:16:01 PM
+2019-04-07 13:16:01.2685 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:16:23.8315 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 1:16:23 PM
+2019-04-07 13:16:23.8605 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:17:03.5218 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 1:17:03 PM
+2019-04-07 13:17:03.5448 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 13:17:11.3699 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 1:17:11 PM
+2019-04-07 13:17:11.3950 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:19:43.4237 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 2:19:43 PM
+2019-04-07 14:19:43.4379 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:23:25.6381 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 2:23:25 PM
+2019-04-07 14:23:25.6481 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:27:15.7751 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 2:27:15 PM
+2019-04-07 14:27:15.7751 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:27:27.6604 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 2:27:27 PM
+2019-04-07 14:27:27.6674 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:30:33.6887 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 2:30:33 PM
+2019-04-07 14:30:33.6988 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:30:56.2674 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 2:30:56 PM
+2019-04-07 14:30:56.2744 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:35:19.0058 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 2:35:19 PM
+2019-04-07 14:35:19.0158 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:37:03.9952 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 2:37:03 PM
+2019-04-07 14:37:04.0062 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:37:40.5874 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 2:37:40 PM
+2019-04-07 14:37:40.5874 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:38:02.7480 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 2:38:02 PM
+2019-04-07 14:38:02.7480 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:38:28.0751 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 2:38:28 PM
+2019-04-07 14:38:28.0851 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:38:57.2133 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 2:38:57 PM
+2019-04-07 14:38:57.2133 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 14:39:36.5785 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 2:39:36 PM
+2019-04-07 14:39:36.5875 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 15:39:52.7957 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 3:39:52 PM
+2019-04-07 15:39:52.8328 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 15:40:43.0821 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 3:40:43 PM
+2019-04-07 15:40:43.0951 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 15:40:58.8405 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 3:40:58 PM
+2019-04-07 15:40:58.8505 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 15:41:26.3832 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 3:41:26 PM
+2019-04-07 15:41:26.3832 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 15:41:45.9846 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 3:41:45 PM
+2019-04-07 15:41:46.0969 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 15:56:42.8970 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 3:56:42 PM
+2019-04-07 15:56:42.9160 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 15:58:50.7342 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 3:58:50 PM
+2019-04-07 15:58:50.7463 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 15:58:52.4292 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 3:58:52 PM
+2019-04-07 15:58:52.4292 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:02:37.2753 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:02:37 PM
+2019-04-07 16:02:37.3104 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:03:05.9329 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:03:05 PM
+2019-04-07 16:03:05.9329 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:03:48.3927 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:03:48 PM
+2019-04-07 16:03:48.4037 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:04:54.8510 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:04:54 PM
+2019-04-07 16:04:54.8510 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:08:11.6869 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:08:11 PM
+2019-04-07 16:08:11.6990 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:08:21.9601 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:08:21 PM
+2019-04-07 16:08:21.9601 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:08:22.8789 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:08:22 PM
+2019-04-07 16:08:22.8889 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:09:34.5406 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:09:34 PM
+2019-04-07 16:09:34.5406 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:11:01.0617 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:11:01 PM
+2019-04-07 16:11:01.0727 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:11:08.0727 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:11:08 PM
+2019-04-07 16:11:08.0727 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:11:42.3136 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:11:42 PM
+2019-04-07 16:11:42.3246 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:11:47.0195 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:11:47 PM
+2019-04-07 16:11:47.0296 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:14:06.6286 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:14:06 PM
+2019-04-07 16:14:06.6397 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:14:11.9717 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:14:11 PM
+2019-04-07 16:14:11.9818 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:14:13.6145 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:14:13 PM
+2019-04-07 16:14:13.6235 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:14:15.1875 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:14:15 PM
+2019-04-07 16:14:15.1965 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:14:48.8805 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:14:48 PM
+2019-04-07 16:14:48.8926 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:16:28.4879 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:16:28 PM
+2019-04-07 16:16:28.5059 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:16:48.8049 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:16:48 PM
+2019-04-07 16:16:48.8049 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:20:42.5027 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:20:42 PM
+2019-04-07 16:20:42.5187 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:21:02.2804 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:21:02 PM
+2019-04-07 16:21:02.2904 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:21:22.4478 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:21:22 PM
+2019-04-07 16:21:22.4478 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:21:30.6137 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:21:30 PM
+2019-04-07 16:21:30.6247 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:22:00.5839 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:22:00 PM
+2019-04-07 16:22:00.5950 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:23:24.9187 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:23:24 PM
+2019-04-07 16:23:24.9427 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:23:57.7290 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:23:57 PM
+2019-04-07 16:23:57.7290 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:25:12.3346 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:25:12 PM
+2019-04-07 16:25:12.3346 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:25:15.4188 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:25:15 PM
+2019-04-07 16:25:15.4188 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:25:30.8494 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:25:30 PM
+2019-04-07 16:25:30.8584 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:25:36.8252 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:25:36 PM
+2019-04-07 16:25:36.8362 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:26:52.0700 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:26:52 PM
+2019-04-07 16:26:52.0851 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:27:28.3471 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:27:28 PM
+2019-04-07 16:27:28.3591 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:28:03.6567 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:28:03 PM
+2019-04-07 16:28:03.6677 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:28:27.7531 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:28:27 PM
+2019-04-07 16:28:27.7631 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:28:44.4417 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:28:44 PM
+2019-04-07 16:28:44.4528 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:29:15.2520 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:29:15 PM
+2019-04-07 16:29:15.2640 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:29:36.5226 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:29:36 PM
+2019-04-07 16:29:36.5226 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:29:44.1268 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:29:44 PM
+2019-04-07 16:29:44.1358 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:30:04.5005 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:30:04 PM
+2019-04-07 16:30:04.5126 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:30:57.4999 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:30:57 PM
+2019-04-07 16:30:57.5179 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:31:13.5282 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:31:13 PM
+2019-04-07 16:31:13.5282 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:31:48.7064 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:31:48 PM
+2019-04-07 16:31:48.7294 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:31:51.4698 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:31:51 PM
+2019-04-07 16:31:51.4798 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:32:12.7358 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:32:12 PM
+2019-04-07 16:32:12.7458 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:32:17.4454 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:32:17 PM
+2019-04-07 16:32:17.4454 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:33:25.9738 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:33:25 PM
+2019-04-07 16:33:25.9849 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:44:12.4351 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:44:12 PM
+2019-04-07 16:44:12.4502 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:46:34.3175 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 4:46:34 PM
+2019-04-07 16:46:34.3325 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:47:00.6244 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 4:47:00 PM
+2019-04-07 16:47:00.6384 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:47:09.6135 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 4:47:09 PM
+2019-04-07 16:47:09.6286 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:47:34.8407 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 4:47:34 PM
+2019-04-07 16:47:34.8527 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:50:07.2969 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 4:50:07 PM
+2019-04-07 16:50:07.3089 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:50:18.9491 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing CreateUser method
+Uri: /api/v1/register/create, Verb: POST, Date: 7/04/2019 4:50:18 PM
+2019-04-07 16:50:18.9491 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:51:48.7586 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:51:48 PM
+2019-04-07 16:51:48.7586 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:51:55.6200 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:51:55 PM
+2019-04-07 16:51:55.6200 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:52:01.4482 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:52:01 PM
+2019-04-07 16:52:01.4482 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-07 16:52:04.6481 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 7/04/2019 4:52:04 PM
+2019-04-07 16:52:04.6662 Debug 892 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:33:52.7739 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:33:52 AM
+2019-04-11 07:33:53.7598 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:35:30.8419 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:35:30 AM
+2019-04-11 07:35:30.8419 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:35:34.7878 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:35:34 AM
+2019-04-11 07:35:34.7918 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:37:50.0710 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:37:50 AM
+2019-04-11 07:37:50.0710 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:38:32.0998 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:38:32 AM
+2019-04-11 07:38:32.0998 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:39:41.9350 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:39:41 AM
+2019-04-11 07:39:41.9490 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:41:18.8398 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:41:18 AM
+2019-04-11 07:41:18.8398 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:42:09.8602 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:42:09 AM
+2019-04-11 07:42:09.8663 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:42:50.3693 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:42:50 AM
+2019-04-11 07:42:50.3693 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:43:42.4749 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:43:42 AM
+2019-04-11 07:43:42.4749 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:44:09.2163 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:44:09 AM
+2019-04-11 07:44:09.2163 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:44:09 AM
+2019-04-11 07:44:09.2163 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:44:09.2394 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:44:39.6143 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:44:39 AM
+2019-04-11 07:44:39.6143 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:45:07.3436 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:45:07 AM
+2019-04-11 07:45:07.3436 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:45:28.0600 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:45:28 AM
+2019-04-11 07:45:28.0600 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:46:57.7930 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:46:57 AM
+2019-04-11 07:46:57.7930 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 07:48:23.7664 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 7:48:23 AM
+2019-04-11 07:48:23.7715 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 08:03:24.8667 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 8:03:24 AM
+2019-04-11 08:03:24.8757 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 08:52:39.3016 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 8:52:39 AM
+2019-04-11 08:52:39.3136 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 08:55:33.7199 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 8:55:33 AM
+2019-04-11 08:55:33.7299 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 08:57:26.9189 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 8:57:26 AM
+2019-04-11 08:57:26.9189 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 08:58:32.9186 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 8:58:32 AM
+2019-04-11 08:58:32.9186 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 08:58:59.8565 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 8:58:59 AM
+2019-04-11 08:58:59.8565 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:13:29.0345 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:13:29 AM
+2019-04-11 09:13:29.0555 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:22:47.3099 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:22:47 AM
+2019-04-11 09:22:47.3099 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:23:12.4539 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:23:12 AM
+2019-04-11 09:23:12.4539 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:23:22.7983 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:23:22 AM
+2019-04-11 09:23:22.7983 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:24:04.0887 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:24:04 AM
+2019-04-11 09:24:04.0937 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:24:19.8881 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:24:19 AM
+2019-04-11 09:24:19.8881 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:38:24.7861 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:38:24 AM
+2019-04-11 09:38:24.7952 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:38:32.1881 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:38:32 AM
+2019-04-11 09:38:32.1931 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:38:37.1953 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:38:37 AM
+2019-04-11 09:38:37.1953 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:38:52.1653 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:38:52 AM
+2019-04-11 09:38:52.1653 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 09:58:22.4010 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 9:58:22 AM
+2019-04-11 09:58:22.4010 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:00:58.7679 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:00:58 AM
+2019-04-11 10:00:58.7739 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:01:36.5250 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:01:36 AM
+2019-04-11 10:01:36.5250 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:03:13.6779 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:03:13 AM
+2019-04-11 10:03:13.6779 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:05:54.4983 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:05:54 AM
+2019-04-11 10:05:54.4983 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:06:10.3186 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:06:10 AM
+2019-04-11 10:06:10.3186 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:07:48.0658 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:07:48 AM
+2019-04-11 10:07:48.0698 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:15:59.9389 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:15:59 AM
+2019-04-11 10:15:59.9480 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:16:27.6697 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:16:27 AM
+2019-04-11 10:16:27.6697 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:32:14.1043 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:32:14 AM
+2019-04-11 10:32:14.1163 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:32:19.2063 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:32:19 AM
+2019-04-11 10:32:19.2063 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:32:33.6162 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:32:33 AM
+2019-04-11 10:32:33.6162 Debug 13264 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:50:32.8463 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:50:32 AM
+2019-04-11 10:50:33.5331 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:50:58.8659 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:50:58 AM
+2019-04-11 10:50:58.8659 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:51:04.7081 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:51:04 AM
+2019-04-11 10:51:04.7131 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:54:58.8364 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:54:58 AM
+2019-04-11 10:54:58.8364 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-11 10:55:03.7559 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 11/04/2019 10:55:03 AM
+2019-04-11 10:55:03.7559 Debug 16372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:23:11.7974 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:23:11 AM
+2019-04-12 07:23:12.5726 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:23:36.3904 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:23:36 AM
+2019-04-12 07:23:36.3904 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:24:10.0764 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:24:10 AM
+2019-04-12 07:24:10.0764 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:24:34.7789 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:24:34 AM
+2019-04-12 07:24:34.7789 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:24:38.5878 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:24:38 AM
+2019-04-12 07:24:38.5878 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:25:07.3355 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:25:07 AM
+2019-04-12 07:25:07.3405 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:25:10.7557 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:25:10 AM
+2019-04-12 07:25:10.7557 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:25:46.0514 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:25:46 AM
+2019-04-12 07:25:46.0594 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:26:01.2725 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:26:01 AM
+2019-04-12 07:26:01.2765 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:27:25.1913 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:27:25 AM
+2019-04-12 07:27:25.1963 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:28:09.0140 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:28:09 AM
+2019-04-12 07:28:09.0140 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:28:14.3289 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:28:14 AM
+2019-04-12 07:28:14.3289 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:28:37.1957 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:28:37 AM
+2019-04-12 07:28:37.1997 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:28:41.2132 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:28:41 AM
+2019-04-12 07:28:41.2132 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:38:28.1849 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:38:28 AM
+2019-04-12 07:38:28.1849 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:40:13.3487 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:40:13 AM
+2019-04-12 07:40:13.3487 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:40:29.0065 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:40:29 AM
+2019-04-12 07:40:29.0065 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:51:26.4916 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:51:26 AM
+2019-04-12 07:51:26.4996 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 07:51:30.1813 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 7:51:30 AM
+2019-04-12 07:51:30.1813 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:09:29.2437 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:09:29 AM
+2019-04-12 08:09:29.2437 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:11:37.8729 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:11:37 AM
+2019-04-12 08:11:37.8729 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:11:53.6827 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:11:53 AM
+2019-04-12 08:11:53.6827 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:13:04.2707 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:13:04 AM
+2019-04-12 08:13:04.2757 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:23:19.4084 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:23:19 AM
+2019-04-12 08:23:19.4165 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:25:55.7414 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:25:55 AM
+2019-04-12 08:25:55.7414 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:26:12.9711 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:26:12 AM
+2019-04-12 08:26:12.9741 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:27:35.6213 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:27:35 AM
+2019-04-12 08:27:35.6213 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:28:05.8985 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:28:05 AM
+2019-04-12 08:28:05.8985 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:31:31.3594 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:31:31 AM
+2019-04-12 08:31:31.3694 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:31:59.6815 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:31:59 AM
+2019-04-12 08:31:59.6815 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:36:30.8286 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:36:30 AM
+2019-04-12 08:36:30.8286 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:41:07.9054 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:41:07 AM
+2019-04-12 08:41:07.9054 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:41:32.7890 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:41:32 AM
+2019-04-12 08:41:32.7930 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:51:46.9649 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:51:46 AM
+2019-04-12 08:51:46.9759 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 08:52:00.1822 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 8:52:00 AM
+2019-04-12 08:52:00.1822 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 09:02:15.0218 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 9:02:15 AM
+2019-04-12 09:02:15.0218 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 09:02:54.0555 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 9:02:54 AM
+2019-04-12 09:02:54.0555 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 09:03:35.3771 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 9:03:35 AM
+2019-04-12 09:03:35.3771 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 09:04:02.9015 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 9:04:02 AM
+2019-04-12 09:04:02.9015 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 09:04:32.7030 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 9:04:32 AM
+2019-04-12 09:04:32.7030 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-12 09:05:39.0890 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 12/04/2019 9:05:39 AM
+2019-04-12 09:05:39.0940 Debug 9776 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-16 07:33:37.2899 Debug 6596 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 16/04/2019 7:33:37 AM
+2019-04-16 07:33:38.1090 Debug 6596 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-17 14:55:27.2831 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/17/2019 2:55:27 PM
+2019-04-17 14:55:28.1504 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-17 15:00:24.1245 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/17/2019 3:00:24 PM
+2019-04-17 15:00:24.4003 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-17 15:00:28.0058 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/17/2019 3:00:28 PM
+2019-04-17 15:00:28.0148 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-17 15:00:39.3407 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/17/2019 3:00:39 PM
+2019-04-17 15:00:39.3708 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-17 15:00:45.0283 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/17/2019 3:00:45 PM
+2019-04-17 15:00:45.0283 Debug 14220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-19 17:10:44.5800 Debug 13736 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/19/2019 5:10:44 PM
+2019-04-19 17:10:45.4798 Debug 13736 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-19 17:10:52.4192 Debug 13736 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/19/2019 5:10:52 PM
+2019-04-19 17:10:52.4192 Debug 13736 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-19 17:14:43.8162 Debug 13736 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/19/2019 5:14:43 PM
+2019-04-19 17:14:43.8212 Debug 13736 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-19 22:54:42.0770 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/19/2019 10:54:42 PM
+2019-04-19 22:54:43.0714 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-19 23:07:52.1490 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/19/2019 11:07:52 PM
+2019-04-19 23:07:52.1490 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-19 23:09:29.4750 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/19/2019 11:09:29 PM
+2019-04-19 23:09:29.4750 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-19 23:10:24.0142 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Login method
+Uri: /api/v1/authentication/signin, Verb: POST, Date: 04/19/2019 11:10:24 PM
+2019-04-19 23:10:26.4242 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 01:20:15.2196 Debug 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:20:15 AM
+2019-04-20 01:20:15.2938 Error 6576 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__1 Message: : 
+ Exception found!!!
+                                    Exception: Object reference not set to an instance of an object. 
+
+                                    Verb: GET 
+
+2019-04-20 01:20:49.7538 Debug 13496 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:20:49 AM
+2019-04-20 01:22:37.4858 Debug 3868 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:22:37 AM
+2019-04-20 01:23:51.6275 Debug 13204 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:23:51 AM
+2019-04-20 01:24:21.0179 Debug 13204 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 01:25:18.4321 Debug 16320 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:25:18 AM
+2019-04-20 01:25:22.0861 Debug 16320 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 01:26:33.7494 Debug 10528 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:26:33 AM
+2019-04-20 01:26:42.0912 Debug 10528 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 01:27:05.5945 Debug 4972 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:27:05 AM
+2019-04-20 01:27:05.7038 Debug 4972 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 01:28:25.7659 Debug 10548 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:28:25 AM
+2019-04-20 01:28:28.1999 Debug 10548 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 01:29:24.2050 Debug 12144 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:29:24 AM
+2019-04-20 01:29:24.3113 Debug 12144 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 01:31:33.9253 Debug 12144 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:31:33 AM
+2019-04-20 01:31:33.9293 Debug 12144 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 01:45:10.2981 Debug 15448 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:45:10 AM
+2019-04-20 01:45:41.2628 Debug 7704 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:45:41 AM
+2019-04-20 01:49:18.6431 Debug 2528 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:49:18 AM
+2019-04-20 01:51:09.5949 Debug 11120 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:51:09 AM
+2019-04-20 01:52:40.2732 Debug 15836 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 1:52:40 AM
+2019-04-20 01:52:45.9186 Debug 15836 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 02:06:00.6780 Debug 10060 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 2:06:00 AM
+2019-04-20 02:06:00.7973 Debug 10060 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-20 02:07:01.4225 Debug 9852 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/20/2019 2:07:01 AM
+2019-04-20 02:07:01.5780 Debug 9852 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed

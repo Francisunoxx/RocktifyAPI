@@ -152,6 +152,7 @@
   <ItemGroup>
     <Compile Include="Controllers\AuthenticationController.cs" />
     <Compile Include="Controllers\RegisterController.cs" />
+    <Compile Include="Controllers\RocktifyController.cs" />
     <Compile Include="Filters\LoggerFilter.cs" />
     <Compile Include="NinjectBindings.cs" />
     <Compile Include="NinjectConfig.cs" />

@@ -16,7 +16,7 @@ namespace RocktifyAPI.Controllers
             this.ias = ias;
         }
 
-        [Route("login")]
+        [Route("signin")]
         [HttpPost]
         public IHttpActionResult Login([FromBody] JObject jObject)
         {
