@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model
+namespace ViewModel
 {
     //[Table("Registrations")]
     public class Registration : Common

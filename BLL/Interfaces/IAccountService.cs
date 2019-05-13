@@ -1,5 +1,5 @@
 ﻿using DAL;
-using Model;
+using ViewModel;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;

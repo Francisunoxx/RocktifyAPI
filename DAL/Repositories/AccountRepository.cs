@@ -1,5 +1,5 @@
 ﻿using DAL.Interfaces;
-using Model;
+using ViewModel;
 using System.Data.Entity;
 using System.Linq;
 

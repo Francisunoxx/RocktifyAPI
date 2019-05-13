@@ -1,4 +1,6 @@
 ﻿using DAL.Interfaces;
+using ViewModel;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
@@ -13,7 +15,7 @@ namespace DAL.Repositories
         const string client_secret = "ea2f175d15524e25a8e45bece72cfe8c";
         const string grant_type = "client_credentials";
 
-        public async Task<string> AccessToken()
+        public async Task<object> AccessToken()
         {
             using (HttpClient client = new HttpClient())
             {
@@ -27,8 +29,8 @@ namespace DAL.Repositories
                 });
                 
                 HttpResponseMessage response = await client.PostAsync(uri, content).ConfigureAwait(false);
-                
-                return response.Content.ReadAsStringAsync().Result;
+
+                return JsonConvert.DeserializeObject(response.Content.ReadAsStringAsync().Result);
             }
         }
     }

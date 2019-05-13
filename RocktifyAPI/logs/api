@@ -4052,3 +4052,351 @@ Message: Content Type: {2}
 Verb: {3}
 Status Code: {4}
 Date: {5} Executed
+2019-04-21 16:23:35.1226 Debug 512 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:23:35 PM
+2019-04-21 16:23:35.2209 Debug 512 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:24:50.7168 Debug 9452 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:24:50 PM
+2019-04-21 16:24:50.8702 Debug 9452 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:26:45.7989 Debug 15428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:26:45 PM
+2019-04-21 16:26:45.9688 Debug 15428 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:29:26.6824 Debug 15624 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:29:26 PM
+2019-04-21 16:29:26.8227 Debug 15624 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:33:19.9547 Debug 9532 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:33:19 PM
+2019-04-21 16:33:20.0790 Debug 9532 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:36:42.5702 Debug 2216 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:36:42 PM
+2019-04-21 16:36:42.9673 Debug 2216 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:40:31.4373 Debug 12980 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:40:31 PM
+2019-04-21 16:40:31.5498 Debug 12980 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:41:54.7054 Debug 19448 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:41:54 PM
+2019-04-21 16:41:54.8227 Debug 19448 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:43:18.7039 Debug 944 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:43:18 PM
+2019-04-21 16:43:18.8071 Debug 944 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:43:38.4077 Debug 4740 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:43:38 PM
+2019-04-21 16:43:38.5521 Debug 4740 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:46:13.5496 Debug 2848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:46:13 PM
+2019-04-21 16:46:13.6739 Debug 2848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:49:01.2872 Debug 2848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:49:01 PM
+2019-04-21 16:49:01.3624 Debug 2848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:49:43.6435 Debug 2848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:49:43 PM
+2019-04-21 16:49:43.7167 Debug 2848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 16:54:17.7575 Debug 17824 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 4:54:17 PM
+2019-04-21 16:54:17.8748 Debug 17824 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:17:12.0519 Debug 12476 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:17:12 PM
+2019-04-21 17:17:12.1782 Debug 12476 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:18:54.7324 Debug 11124 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:18:54 PM
+2019-04-21 17:18:54.8567 Debug 11124 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:19:28.2284 Debug 8208 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:19:28 PM
+2019-04-21 17:19:28.3727 Debug 8208 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:20:51.6336 Debug 1596 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:20:51 PM
+2019-04-21 17:20:51.7469 Debug 1596 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:21:54.4048 Debug 3064 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:21:54 PM
+2019-04-21 17:21:54.5451 Debug 3064 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:23:54.5829 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:23:54 PM
+2019-04-21 17:23:54.6812 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:26:34.5484 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:26:34 PM
+2019-04-21 17:26:34.6257 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:27:20.7489 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:27:20 PM
+2019-04-21 17:27:20.8302 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:30:22.0351 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:30:22 PM
+2019-04-21 17:30:22.1093 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:33:14.6690 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:33:14 PM
+2019-04-21 17:33:14.7533 Debug 15812 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:33:52.0983 Debug 18764 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:33:52 PM
+2019-04-21 17:33:52.2226 Debug 18764 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:34:51.2636 Debug 14848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:34:51 PM
+2019-04-21 17:34:51.3629 Debug 14848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:35:54.1214 Debug 14848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:35:54 PM
+2019-04-21 17:35:54.2067 Debug 14848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:37:44.7923 Debug 14848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:37:44 PM
+2019-04-21 17:37:44.8775 Debug 14848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:38:46.5646 Debug 17492 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:38:46 PM
+2019-04-21 17:38:46.6819 Debug 17492 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:39:09.5632 Debug 3220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:39:09 PM
+2019-04-21 17:39:09.7256 Debug 3220 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:39:52.8892 Debug 9492 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:39:52 PM
+2019-04-21 17:39:53.0476 Debug 9492 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:44:56.0572 Debug 19212 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:44:56 PM
+2019-04-21 17:44:56.1955 Debug 19212 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:46:51.0331 Debug 6384 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:46:51 PM
+2019-04-21 17:46:51.1263 Debug 6384 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:47:35.2353 Debug 17088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:47:35 PM
+2019-04-21 17:47:35.4028 Debug 17088 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:47:54.9152 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:47:54 PM
+2019-04-21 17:47:55.0085 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:48:13.2994 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:48:13 PM
+2019-04-21 17:48:13.3937 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:49:17.3458 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:49:17 PM
+2019-04-21 17:49:17.4310 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:49:49.7034 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:49:49 PM
+2019-04-21 17:49:49.7736 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:51:14.6802 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:51:14 PM
+2019-04-21 17:51:14.7454 Debug 12832 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:53:51.0974 Debug 18848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:53:51 PM
+2019-04-21 17:53:51.2157 Debug 18848 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-04-21 17:56:35.6134 Debug 16480 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing GetSpotifyToken method
+Uri: /api/v1/rocktify/get-spotify-token, Verb: GET, Date: 04/21/2019 5:56:35 PM
+2019-04-21 17:56:35.7197 Debug 16480 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-05-13 01:17:17.3992 Debug 17372 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 1:17:17 AM
+2019-05-13 15:25:35.3046 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 3:25:35 PM
+2019-05-13 15:25:35.3677 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-05-13 15:25:59.1477 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 3:25:59 PM
+2019-05-13 15:25:59.1477 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-05-13 15:26:16.8164 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 3:26:16 PM
+2019-05-13 15:26:16.8776 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-05-13 15:30:40.8129 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 3:30:40 PM
+2019-05-13 15:30:40.8711 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-05-13 15:31:30.7373 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 3:31:30 PM
+2019-05-13 15:31:30.7458 Debug 5244 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-05-13 15:32:03.0811 Debug 10520 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 3:32:03 PM
+2019-05-13 15:32:35.5126 Debug 4300 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 3:32:35 PM
+2019-05-13 15:56:48.9640 Debug 15284 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 3:56:48 PM
+2019-05-13 16:05:55.7699 Debug 7668 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 4:05:55 PM
+2019-05-13 16:41:50.6212 Debug 16600 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 4:41:50 PM
+2019-05-13 16:45:34.0848 Debug 14800 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 4:45:34 PM
+2019-05-13 16:45:34.1440 Debug 14800 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed
+2019-05-13 16:46:25.3706 Debug 14800 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__0 Message: Executing Get method
+Uri: /api/v1/rocktify/test, Verb: GET, Date: 05/13/2019 4:46:25 PM
+2019-05-13 16:46:25.4378 Debug 14800 RocktifyAPI.Filters.LoggerFilter+<>c__DisplayClass5_0.<SendToLog>b__2 Message: 
+Message: Content Type: {2}
+Verb: {3}
+Status Code: {4}
+Date: {5} Executed

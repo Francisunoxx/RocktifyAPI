@@ -1,5 +1,5 @@
 ﻿using BLL.Interfaces;
-using Model;
+using ViewModel;
 using Newtonsoft.Json.Linq;
 using System.Web.Http;
 

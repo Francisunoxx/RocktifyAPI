@@ -1,7 +1,7 @@
 ﻿using BLL.Interfaces;
 using DAL;
 using DAL.Interfaces;
-using Model;
+using ViewModel;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;

@@ -1,5 +1,6 @@
 ﻿using BLL.Interfaces;
 using DAL.Interfaces;
+using ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace BLL.Services
             this.irr = irr;
         }
 
-        public Task<string> ServeAccessToken()
+        public Task<object> ServeAccessToken()
         {
             return this.irr.AccessToken();
         }

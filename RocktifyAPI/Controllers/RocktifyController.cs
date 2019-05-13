@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
+using System.Security.Claims;
 using System.Web.Http;
 
 namespace RocktifyAPI.Controllers
@@ -16,6 +17,16 @@ namespace RocktifyAPI.Controllers
         public RocktifyController(IRocktifyService irs)
         {
             this.irs = irs;
+        }
+
+        [Route("test")]
+        [HttpGet]
+        [Authorize(Roles = "admin")]
+        public IHttpActionResult Get()
+        {
+            var identity = User.Identity as ClaimsIdentity;
+
+            return Ok("authorize");
         }
 
         [Route("get-spotify-token")]
